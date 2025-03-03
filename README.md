@@ -1,6 +1,8 @@
 # Real-time Sales Dashboard for Atliq Hardwares
 
-# [Experience Tableau Visualization](url)
+# View the live sales insights dashboard on Tableau:  
+[Sales Insights Dashboard](https://public.tableau.com/views/sales_insights_17396043865300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 This repository contains the code, documentation, and assets for the Real-time Sales Dashboard project. Developed as part of a data analysis initiative, this project provides actionable sales insights for Atliq Hardwares—a computer hardware business facing revenue challenges in a dynamic market environment.
 
